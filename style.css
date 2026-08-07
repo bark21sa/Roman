@@ -1,1 +1,32 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
 
+    font-family: sans-serif;
+    line-height: 1.8;
+}
+
+header {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 40px;
+}
+
+nav a {
+    margin-right: 20px;
+}
+
+article {
+    margin-bottom: 50px;
+}
+
+.date {
+    color: #777;
+    font-size: 0.9em;
+}
+
+footer {
+    border-top: 1px solid #ccc;
+    margin-top: 50px;
+    padding-top: 20px;
+}
