@@ -72,3 +72,41 @@ footer {
 .site-nav a:hover {
     text-decoration: underline;
 }
+
+/* 記事一覧 */
+
+.article-list {
+    margin-top: 30px;
+}
+
+
+.article-card {
+
+    border-bottom: 1px solid #ddd;
+
+    padding: 20px 0;
+
+}
+
+
+.article-card h3 {
+
+    margin-bottom: 5px;
+
+}
+
+
+.article-card a {
+
+    color: #333;
+
+    text-decoration: none;
+
+}
+
+
+.article-card a:hover {
+
+    text-decoration: underline;
+
+}
